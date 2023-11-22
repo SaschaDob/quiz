@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+.btn{
+    background-color: yellow;
+}
+.nextbtn{
+    background-color: pink;
+    margin-top:20px;
+}
